@@ -21,7 +21,6 @@
       <outline text="hadoopsphere.com" title="hadoopsphere.com" type="rss" xmlUrl="http://feeds.feedburner.com/hadoopsphere/Cfpe" htmlUrl="http://www.hadoopsphere.com/"/>
       <outline text="HBase" title="HBase" type="rss" xmlUrl="http://hadoop-hbase.blogspot.com/feeds/posts/default" htmlUrl="http://hadoop-hbase.blogspot.com/"/>
       <outline text="Hortonworks" title="Hortonworks" type="rss" xmlUrl="http://feeds.feedburner.com/hortonworks/feed" htmlUrl="http://hortonworks.com/"/>
-      <outline text="Hortonworks » Hortonworks Blog" title="Hortonworks » Hortonworks Blog" type="rss" xmlUrl="http://hortonworks.com/blog/feed/" htmlUrl="http://hortonworks.com/"/>
       <outline text="jayunit100" title="jayunit100" type="rss" xmlUrl="http://jayunit100.blogspot.com/feeds/posts/default" htmlUrl="http://jayunit100.blogspot.com/"/>
       <outline text="Kick Start Hadoop" title="Kick Start Hadoop" type="rss" xmlUrl="http://kickstarthadoop.blogspot.com/feeds/posts/default" htmlUrl="http://kickstarthadoop.blogspot.com/"/>
       <outline text="Kiji Community" title="Kiji Community" type="rss" xmlUrl="http://kiji.org/feed/" htmlUrl="http://kiji.org"/>
