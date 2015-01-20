@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Pierre Sauvage tagged as Linux from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Linux" title="Linux">
+      <outline text="Docker Blog" title="Docker Blog" type="rss" xmlUrl="http://blog.docker.com/feed/" htmlUrl="http://blog.docker.com/"/>
+      <outline text="LinuxFr.org : les dépêches" title="LinuxFr.org : les dépêches" type="rss" xmlUrl="http://linuxfr.org/news.atom" htmlUrl="http://linuxfr.org/news"/>
+      <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="http://www.phoronix.com/rss.php" htmlUrl="http://www.phoronix.com/"/>
+      <outline text="La vache libre" title="La vache libre" type="rss" xmlUrl="http://la-vache-libre.org/feed/" htmlUrl="http://la-vache-libre.org/"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Pierre Sauvage tagged as Node.js from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Node.js" title="Node.js">
+      <outline text="blog.izs.me" title="blog.izs.me" type="rss" xmlUrl="http://blog.izs.me/rss" htmlUrl="http://blog.izs.me/"/>
+      <outline text="blog.sysmgr.org" title="blog.sysmgr.org" type="rss" xmlUrl="http://blog.sysmgr.org/feeds/posts/default" htmlUrl="http://blog.sysmgr.org/"/>
+      <outline text="Brendan Eich" title="Brendan Eich" type="rss" xmlUrl="https://brendaneich.com/feed/" htmlUrl="https://brendaneich.com/"/>
+      <outline text="DailyJS" title="DailyJS" type="rss" xmlUrl="http://feeds.feedburner.com/dailyjs" htmlUrl="http://dailyjs.com/"/>
+      <outline text="How To Node" title="How To Node" type="rss" xmlUrl="http://howtonode.org/feed.xml" htmlUrl="http://howtonode.org/"/>
+      <outline text="LinkedIn Engineering - Node.js" title="LinkedIn Engineering - Node.js" type="rss" xmlUrl="http://engineering.linkedin.com/taxonomy/term/34/feed" htmlUrl="http://engineering.linkedin.com/tags/nodejs"/>
+      <outline text="Node Tuts" title="Node Tuts" type="rss" xmlUrl="http://nodetuts.com/rss.xml" htmlUrl="http://nodetuts.com/"/>
+      <outline text="Node.js Blog" title="Node.js Blog" type="rss" xmlUrl="http://feeds.feedburner.com/nodejs/123123123" htmlUrl="http://blog.nodejs.org/"/>
+      <outline text="Nodejitsu" title="Nodejitsu" type="rss" xmlUrl="http://blog.nodejitsu.com/rss/" htmlUrl="http://blog.nodejitsu.com/"/>
+      <outline text="Planet Nodejs" title="Planet Nodejs" type="rss" xmlUrl="http://www.planetnodejs.com/feed" htmlUrl="http://planetnodejs.com/"/>
+      <outline text="StrongLoop" title="StrongLoop" type="rss" xmlUrl="http://strongloop.com/feed/" htmlUrl="http://strongloop.com/"/>
+      <outline text="TJ Holowaychuk on Medium" title="TJ Holowaychuk on Medium" type="rss" xmlUrl="https://medium.com/feed/@tjholowaychuk" htmlUrl="https://medium.com/@tjholowaychuk"/>
+    </outline>
+  </body>
+</opml>

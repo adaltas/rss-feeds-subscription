@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Pierre Sauvage tagged as Programming from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Programming" title="Programming">
+      <outline text="Apache Software Foundation Blogs" title="Apache Software Foundation Blogs" type="rss" xmlUrl="https://blogs.apache.org/planet/feed/entries/atom" htmlUrl="https://blogs.apache.org/"/>
+      <outline text="Atom Blog" title="Atom Blog" type="rss" xmlUrl="http://blog.atom.io/feed.xml" htmlUrl="http://blog.atom.io/"/>
+      <outline text="CenturyLink Labs | Helping Developers do Ops Easier" title="CenturyLink Labs | Helping Developers do Ops Easier" type="rss" xmlUrl="http://www.centurylinklabs.com/feed/" htmlUrl="http://www.centurylinklabs.com/"/>
+      <outline text="DataRobot" title="DataRobot" type="rss" xmlUrl="http://www.datarobot.com/feed/" htmlUrl="http://www.datarobot.com/"/>
+      <outline text="Flynn" title="Flynn" type="rss" xmlUrl="https://flynn.io/blog.xml" htmlUrl="https://flynn.io/blog"/>
+      <outline text="Manula's Blog" title="Manula's Blog" type="rss" xmlUrl="http://blog.manula.org/feeds/posts/default?alt=rss" htmlUrl="http://blog.manula.org/"/>
+      <outline text="The Cloudcast" title="The Cloudcast" type="rss" xmlUrl="http://www.thecloudcast.net/feeds/posts/default" htmlUrl="http://www.thecloudcast.net/"/>
+      <outline text="The Cloudcast (.net) - Weekly Cloud Computing Podcast" title="The Cloudcast (.net) - Weekly Cloud Computing Podcast" type="rss" xmlUrl="http://www.buzzsprout.com/3195.rss" htmlUrl="http://thecloudcast.net/"/>
+      <outline text="The Technical Blog of James" title="The Technical Blog of James" type="rss" xmlUrl="https://ttboj.wordpress.com/feed/" htmlUrl="http://ttboj.wordpress.com/"/>
+      <outline text="Vagrant Blog" title="Vagrant Blog" type="rss" xmlUrl="http://feeds.feedburner.com/vagrantup" htmlUrl="http://www.vagrantup.com/blog.html"/>
+      <outline text="~jpetazzo/" title="~jpetazzo/" type="rss" xmlUrl="http://jpetazzo.github.io/atom.xml" htmlUrl="http://jpetazzo.github.io/"/>
+    </outline>
+  </body>
+</opml>

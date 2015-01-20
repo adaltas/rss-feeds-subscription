@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Pierre Sauvage tagged as Hadoop from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="Hadoop" title="Hadoop">
+      <outline text="Altic Scale" title="Altic Scale" type="rss" xmlUrl="https://www.altiscale.com/feed/" htmlUrl="https://www.altiscale.com/"/>
+      <outline text="Antirez weblog" title="Antirez weblog" type="rss" xmlUrl="http://antirez.com/rss" htmlUrl="http://antirez.com/"/>
+      <outline text="Big data - tidbits of knowledge" title="Big data - tidbits of knowledge" type="rss" xmlUrl="http://matthieulieber.blogspot.com/feeds/posts/default" htmlUrl="http://matthieulieber.blogspot.com/"/>
+      <outline text="BigHadoop" title="BigHadoop" type="rss" xmlUrl="https://bighadoop.wordpress.com/feed/" htmlUrl="https://bighadoop.wordpress.com"/>
+      <outline text="Blog Xebia France » Hadoop" title="Blog Xebia France » Hadoop" type="rss" xmlUrl="http://blog.xebia.fr/tag/hadoop/feed/" htmlUrl="http://blog.xebia.fr"/>
+      <outline text="Chuck's Blog" title="Chuck's Blog" type="rss" xmlUrl="http://feeds.feedblitz.com/chucks_blog&amp;x=1" htmlUrl="http://chucksblog.emc.com/chucks_blog/"/>
+      <outline text="Cloudera Developer Blog" title="Cloudera Developer Blog" type="rss" xmlUrl="http://blog.cloudera.com/feed/" htmlUrl="http://blog.cloudera.com/"/>
+      <outline text="Cloudera VISION" title="Cloudera VISION" type="rss" xmlUrl="http://vision.cloudera.com/feed/" htmlUrl="http://vision.cloudera.com/"/>
+      <outline text="Damien Katz" title="Damien Katz" type="rss" xmlUrl="http://damienkatz.net/atom.xml" htmlUrl="http://damienkatz.net/"/>
+      <outline text="Dattamsha" title="Dattamsha" type="rss" xmlUrl="http://www.dattamsha.com/feed/" htmlUrl="http://www.dattamsha.com/"/>
+      <outline text="eBay Tech Blog" title="eBay Tech Blog" type="rss" xmlUrl="http://www.ebaytechblog.com/feed/" htmlUrl="http://www.ebaytechblog.com/"/>
+      <outline text="Hadapt" title="Hadapt" type="rss" xmlUrl="http://hadapt.com/feed/" htmlUrl="http://hadapt.com/"/>
+      <outline text="Hadoop Tips" title="Hadoop Tips" type="rss" xmlUrl="http://www.thecloudavenue.com/feeds/posts/default" htmlUrl="http://www.thecloudavenue.com/"/>
+      <outline text="hadoopsphere.com" title="hadoopsphere.com" type="rss" xmlUrl="http://feeds.feedburner.com/hadoopsphere/Cfpe" htmlUrl="http://www.hadoopsphere.com/"/>
+      <outline text="HBase" title="HBase" type="rss" xmlUrl="http://hadoop-hbase.blogspot.com/feeds/posts/default" htmlUrl="http://hadoop-hbase.blogspot.com/"/>
+      <outline text="Hortonworks" title="Hortonworks" type="rss" xmlUrl="http://feeds.feedburner.com/hortonworks/feed" htmlUrl="http://hortonworks.com/"/>
+      <outline text="Hortonworks » Hortonworks Blog" title="Hortonworks » Hortonworks Blog" type="rss" xmlUrl="http://hortonworks.com/blog/feed/" htmlUrl="http://hortonworks.com/"/>
+      <outline text="jayunit100" title="jayunit100" type="rss" xmlUrl="http://jayunit100.blogspot.com/feeds/posts/default" htmlUrl="http://jayunit100.blogspot.com/"/>
+      <outline text="Kick Start Hadoop" title="Kick Start Hadoop" type="rss" xmlUrl="http://kickstarthadoop.blogspot.com/feeds/posts/default" htmlUrl="http://kickstarthadoop.blogspot.com/"/>
+      <outline text="Kiji Community" title="Kiji Community" type="rss" xmlUrl="http://kiji.org/feed/" htmlUrl="http://kiji.org"/>
+      <outline text="KNIME Blog" title="KNIME Blog" type="rss" xmlUrl="http://www.knime.org/blog/rss.xml" htmlUrl="http://www.knime.org/blog"/>
+      <outline text="LinkedIn Engineering - Hadoop" title="LinkedIn Engineering - Hadoop" type="rss" xmlUrl="http://engineering.linkedin.com/taxonomy/term/63/feed" htmlUrl="http://engineering.linkedin.com/hadoop"/>
+      <outline text="myNoSQL" title="myNoSQL" type="rss" xmlUrl="http://feeds.feedburner.com/nosql" htmlUrl="http://nosql.mypopescu.com/"/>
+      <outline text="Node.js Blog (1)" title="Node.js Blog (1)" type="rss" xmlUrl="http://blog.nodejs.org/feed/" htmlUrl="http://blog.nodejs.org/"/>
+      <outline text="OCTO talks !" title="OCTO talks !" type="rss" xmlUrl="http://blog.octo.com/en/feed/" htmlUrl="http://blog.octo.com/en/"/>
+      <outline text="OnStrategies Perspectives" title="OnStrategies Perspectives" type="rss" xmlUrl="http://www.onstrategies.com/blog/feed/" htmlUrl="http://www.onstrategies.com/blog"/>
+      <outline text="Phoenix: A SQL layer over HBase" title="Phoenix: A SQL layer over HBase" type="rss" xmlUrl="http://phoenix-hbase.blogspot.com/feeds/posts/default" htmlUrl="http://phoenix-hbase.blogspot.com/"/>
+      <outline text="SequenceIQ Blog" title="SequenceIQ Blog" type="rss" xmlUrl="http://blog.sequenceiq.com/atom.xml" htmlUrl="http://blog.sequenceiq.com/"/>
+      <outline text="Shopify Blog - Technology" title="Shopify Blog - Technology" type="rss" xmlUrl="http://feeds.feedburner.com/shopify-technology" htmlUrl="http://company.myshopify.com/blogs/technology"/>
+      <outline text="Splunk Blogs » hadoop" title="Splunk Blogs » hadoop" type="rss" xmlUrl="http://blogs.splunk.com/tag/hadoop/feed/" htmlUrl="http://blogs.splunk.com"/>
+      <outline text="The Apache Software Foundation Blog" title="The Apache Software Foundation Blog" type="rss" xmlUrl="https://blogs.apache.org/foundation/feed/entries/atom?tags=hadoop" htmlUrl="https://blogs.apache.org/foundation/"/>
+      <outline text="thoughts from the red planet" title="thoughts from the red planet" type="rss" xmlUrl="http://feeds.feedburner.com/thoughtsfromtheredplanet" htmlUrl="http://nathanmarz.com/blog/"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of Pierre Sauvage tagged as RIA from Inoreader [http://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="RIA" title="RIA">
+      <outline text="React" title="React" type="rss" xmlUrl="http://facebook.github.io/react/feed.xml" htmlUrl="http://facebook.github.io/react"/>
+      <outline text="The Dojo Toolkit Blog" title="The Dojo Toolkit Blog" type="rss" xmlUrl="http://dojotoolkit.org/blog/feed" htmlUrl="http://dojotoolkit.org/blog"/>
+    </outline>
+  </body>
+</opml>
