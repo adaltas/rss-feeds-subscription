@@ -9,6 +9,7 @@
       <outline text="LinuxFr.org : les dépêches" title="LinuxFr.org : les dépêches" type="rss" xmlUrl="http://linuxfr.org/news.atom" htmlUrl="http://linuxfr.org/news"/>
       <outline text="Phoronix" title="Phoronix" type="rss" xmlUrl="http://www.phoronix.com/rss.php" htmlUrl="http://www.phoronix.com/"/>
       <outline text="La vache libre" title="La vache libre" type="rss" xmlUrl="http://la-vache-libre.org/feed/" htmlUrl="http://la-vache-libre.org/"/>
+      <outline text="J. Petazzoni Blog (Docker)" title="J. Petazzoni Blog (Docker)" type="rss" xmlUrl="http://jpetazzo.github.io/atom.xml" htmlUrl="http://jpetazzo.github.io/"/>
     </outline>
   </body>
 </opml>

@@ -15,7 +15,6 @@
       <outline text="The Cloudcast (.net) - Weekly Cloud Computing Podcast" title="The Cloudcast (.net) - Weekly Cloud Computing Podcast" type="rss" xmlUrl="http://www.buzzsprout.com/3195.rss" htmlUrl="http://thecloudcast.net/"/>
       <outline text="The Technical Blog of James" title="The Technical Blog of James" type="rss" xmlUrl="https://ttboj.wordpress.com/feed/" htmlUrl="http://ttboj.wordpress.com/"/>
       <outline text="Vagrant Blog" title="Vagrant Blog" type="rss" xmlUrl="http://feeds.feedburner.com/vagrantup" htmlUrl="http://www.vagrantup.com/blog.html"/>
-      <outline text="~jpetazzo/" title="~jpetazzo/" type="rss" xmlUrl="http://jpetazzo.github.io/atom.xml" htmlUrl="http://jpetazzo.github.io/"/>
     </outline>
   </body>
 </opml>
