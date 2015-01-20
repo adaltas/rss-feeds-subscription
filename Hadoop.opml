@@ -27,7 +27,6 @@
       <outline text="KNIME Blog" title="KNIME Blog" type="rss" xmlUrl="http://www.knime.org/blog/rss.xml" htmlUrl="http://www.knime.org/blog"/>
       <outline text="LinkedIn Engineering - Hadoop" title="LinkedIn Engineering - Hadoop" type="rss" xmlUrl="http://engineering.linkedin.com/taxonomy/term/63/feed" htmlUrl="http://engineering.linkedin.com/hadoop"/>
       <outline text="myNoSQL" title="myNoSQL" type="rss" xmlUrl="http://feeds.feedburner.com/nosql" htmlUrl="http://nosql.mypopescu.com/"/>
-      <outline text="Node.js Blog (1)" title="Node.js Blog (1)" type="rss" xmlUrl="http://blog.nodejs.org/feed/" htmlUrl="http://blog.nodejs.org/"/>
       <outline text="OCTO talks !" title="OCTO talks !" type="rss" xmlUrl="http://blog.octo.com/en/feed/" htmlUrl="http://blog.octo.com/en/"/>
       <outline text="OnStrategies Perspectives" title="OnStrategies Perspectives" type="rss" xmlUrl="http://www.onstrategies.com/blog/feed/" htmlUrl="http://www.onstrategies.com/blog"/>
       <outline text="Phoenix: A SQL layer over HBase" title="Phoenix: A SQL layer over HBase" type="rss" xmlUrl="http://phoenix-hbase.blogspot.com/feeds/posts/default" htmlUrl="http://phoenix-hbase.blogspot.com/"/>
