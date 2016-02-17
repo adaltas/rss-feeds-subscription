@@ -35,6 +35,7 @@
       <outline text="Splunk Blogs » hadoop" title="Splunk Blogs » hadoop" type="rss" xmlUrl="http://blogs.splunk.com/tag/hadoop/feed/" htmlUrl="http://blogs.splunk.com"/>
       <outline text="The Apache Software Foundation Blog" title="The Apache Software Foundation Blog" type="rss" xmlUrl="https://blogs.apache.org/foundation/feed/entries/atom?tags=hadoop" htmlUrl="https://blogs.apache.org/foundation/"/>
       <outline text="thoughts from the red planet" title="thoughts from the red planet" type="rss" xmlUrl="http://feeds.feedburner.com/thoughtsfromtheredplanet" htmlUrl="http://nathanmarz.com/blog/"/>
+      <outline text="Christopher Bourez's blog" title="Christopher Bourez's blog" type="rss" xmlUrl="http://christopher5106.github.io/feed.xml" htmlUrl="http://christopher5106.github.io"/>
     </outline>
   </body>
 </opml>
